@@ -1,6 +1,6 @@
-# Cat List with Image Display and Search
+# Cats Dex
 
-Welcome to the Cat List with Image Display and Search project! This project is built using React, Vite, Tailwind CSS, and PostCSS, allowing users to view a cat list containing images and search for specific cats.
+Welcome to Cats Dex! This project is built using React, Vite, Tailwind CSS, and PostCSS, allowing users to view a cat list containing images and search for specific cats.
 
 ## Features 🚀
 
